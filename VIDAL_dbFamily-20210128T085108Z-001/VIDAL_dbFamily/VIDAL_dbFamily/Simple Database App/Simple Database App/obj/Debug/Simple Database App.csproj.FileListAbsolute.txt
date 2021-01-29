@@ -1,0 +1,13 @@
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\bin\Debug\Simple Database App.exe.config
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\bin\Debug\Simple Database App.exe
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\bin\Debug\Simple Database App.pdb
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple Database App.csprojAssemblyReference.cache
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple_Database_App.Form1.resources
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple_Database_App.Form2.resources
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple_Database_App.Form3.resources
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple_Database_App.Form4.resources
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple_Database_App.Form5.resources
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple_Database_App.Properties.Resources.resources
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple Database App.csproj.GenerateResource.cache
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple Database App.exe
+C:\Users\Razyl Abbygail Vidal\Desktop\VIDAL_dbFamily-20210128T085108Z-001\VIDAL_dbFamily\VIDAL_dbFamily\Simple Database App\Simple Database App\obj\Debug\Simple Database App.pdb
